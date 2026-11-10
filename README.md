@@ -12,7 +12,7 @@ Personal portfolio showcasing AI/ML applications, agent systems, RAG pipelines, 
 
 - **Dynamic Three.js Particle Mesh**: Interactive 3D WebGL particle field that transforms geometry as you scroll between sections (torus knot, grid, wave, helix, galaxy).
 - **Responsive Hero & Timeline**: Interactive scroll-driven career & education timeline with live spine fill and active state tracking.
-- **Project Showcase**: Equal-weight project tiles for **GameGuide-AI**, **DeceptEnv** (with the live Hugging Face demo embedded), **Quorum**, **cbomscan**, **F1 Hierarchical RL**, **ClipDeck**, **Spillway**, **FairScan**, **AgriScan360**, **Newsmap**, the **AI Campus Placement Advisor** and the **Kirana order bot**, each revealing details on hover or keyboard focus.
+- **Project Showcase**: Equal-weight project tiles for **GameGuide-AI**, **DeceptEnv** (with the live Hugging Face demo embedded), **Spillway**, **Newsmap**, **ClipDeck**, **FairScan**, **AgriScan360** and the **Kirana order bot**, each revealing details on hover or keyboard focus.
 - **A Changelog About Section**: The About section is a `v19.1 changelog`, because a plain bio was deprecated.
 - **Interactive Micro-Interactions**: 3D perspective card tilt, animated counters, smooth marquee ticker, live IST clock, and keyboard-accessible navigation.
 - **Zero-Dependency Core**: Pure HTML5, modern CSS custom properties, and vanilla JS with Three.js via CDN.
